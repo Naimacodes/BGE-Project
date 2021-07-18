@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #0080c0;
+}
+/* .footerB{ */
+/*   box-sizing: border-box; */
+/* } */

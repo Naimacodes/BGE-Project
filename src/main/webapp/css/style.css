@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+h2 {
+ font-size: 150%; 
+ color: red; 
+ padding-left: 15px;
+ }
+p,ul,li,td {
+ color: blue; 
+ }
+a:link {
+ color: green;
+ text-decoration: underline;
+ }
+ 
+ .mandatory{
+ color: orange; 
+ }
+ .error {
+ color: red; 
+ }
+ 
+ .success {
+ color: green; 
+ }
+ 
+ .standard-form label
+{
+    display: inline-block;
+    width: 9em;
+    color: #00968B;
+    text-align: right;
+}
+ 
+ 

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+<H2></H2>
+<p>
+Welcome!
+</p>
+You can:
+<ul>
+<li><a href="TypeSeanceLister">Seance Lister</a></li>
+<li><a href="TypeSeanceVoir">Seance Voir</a></li>
+<li><a href="TypeCompteRenduLister">Compte rendu Lister</a></li>
+<li><a href="TypeCompteRenduVoir">Compte rendu Voir</a></li>
+</ul>
+</body>
+</html>
